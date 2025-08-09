@@ -1,7 +1,7 @@
 local PLACE_ID = 109983668079237
 local FIREBASE_URL = "https://olaaa-dc667-default-rtdb.firebaseio.com/ccc.json"
 
-local usuariosPermitidos = {"sjjfjnfia"}
+local usuariosPermitidos = {"stealbrainrotaltt8"}
 local LocalPlayer = game:GetService("Players").LocalPlayer
 
 -- Verifica se o jogador está na lista
@@ -139,5 +139,5 @@ AcharBtn.MouseButton1Click:Connect(function()
 
             wait(0.1)
         end
-    end)
+            end)
 end)
